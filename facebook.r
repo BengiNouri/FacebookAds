@@ -1,11 +1,4 @@
-# Install the following packages
-install.packages("visdat")          # For visualizations
-install.packages("tidyverse")       # For data manipulation (includes ggplot2, dplyr, tidyr, readr, etc.)
-install.packages("caret")           # For various machine learning tasks
-install.packages("recipes")         # For feature engineering tasks
-install.packages("forecast")        # For forecasting tasks in data exploration
-install.packages("DataExplorer")    # For data exploration
-
+#using the following package 
   library(visdat)   # for visualizations
   library(tidyverse) # for data manipulation (meta-library including ggplot2, dplyr, tidyr, readr,...) 
   library(caret)    # for various ML tasks
